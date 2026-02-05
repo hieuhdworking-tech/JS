@@ -74,5 +74,4 @@ var aElement = document.anchors; //anchor lay ra name
 
 
 var aElement = document.links;
-for(var i = 0; i <)
 
